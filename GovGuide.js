@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         GovGuide – Seva Sindhu Login Helper
-// @namespace    https://github.com/govguide
+// @name         GovBridge – Seva Sindhu Login Helper
+// @namespace    https://github.com/zen-citizen/GovBridge
 // @version      3.0.0
 // @description  Adds login method toggle, CAPTCHA cheatsheet, and working eye icon to Seva Sindhu login page
 // @author       GovGuide
